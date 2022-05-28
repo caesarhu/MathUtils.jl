@@ -1,0 +1,7 @@
+name = "MathUtils"
+uuid = "1687910d-34fe-4c43-a102-30ee67c9dd3b"
+authors = ["caesarhu <hupeishun@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
